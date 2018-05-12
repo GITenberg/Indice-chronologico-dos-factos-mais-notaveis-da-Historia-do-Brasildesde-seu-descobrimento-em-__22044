@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25060'
     url: http://www.gutenberg.org/2009/agents/25060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22044#Indice-chronologico-dos-factos-mais-notaveis-da-Historia-do-Brasildesde-seu-descobrimento-em-_
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2007-07-11'
 gutenberg_type: Text
