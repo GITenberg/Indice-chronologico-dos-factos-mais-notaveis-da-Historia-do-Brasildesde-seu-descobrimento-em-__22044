@@ -1,0 +1,40 @@
+_repo: Indice-chronologico-dos-factos-mais-notaveis-da-Historia-do-Brasildesde-seu-descobrimento-em-__22044
+_version: 0.1.0
+alternative_title: "Índice cronológico dos factos mais notáveis da História do Brasil\r\
+  \ndesde seu descobrimento em 1500 até 1849"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malheiro, Agostinho Marques Perdigão
+    aliases:
+    - Malheiros, Perdigao
+    - Malheiros, Perdigão
+    birthdate: 1824
+    deathdate: 1881
+    gutenberg_agent_id: '25060'
+    url: http://www.gutenberg.org/2009/agents/25060
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2007-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22044'
+language: pt
+language_note: This ebook uses 19th century spelling.
+production_note: "Produced by Pedro Saborano, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net (This\r\nfile was produced from images\
+  \ generously made available\r\nby Cornell University Digital Collections)"
+publication_note: "Rio de Janeiro:\r\nTypographia de Francisco de Paula Brito\r\n\
+  Praça da Constituição N. 64.\r\n1850"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2501'
+- !lcsh 'Brazil -- History'
+title: 'Indice chronologico dos factos mais notaveis da Historia do Brasil
+
+  desde seu descobrimento em 1500 até 1849'
+url: http://www.gutenberg.org/ebooks/22044
